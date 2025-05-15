@@ -1,0 +1,13 @@
+<video controls>  //<audio controls>
+<source src="frog.mp4" type="video/mp4">
+watch here
+</video>
+
+<script type="application/ld+json">
+{
+"@context: https://schema.org",
+"@type":"Product",
+"name":"book",
+"brand":"rdsharma"
+}
+</script>
